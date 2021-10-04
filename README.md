@@ -11,5 +11,5 @@ becom が管理している公開サーバー内容について
 ```console
 (レンタルサーバーへアクセスして main ブランチを最新に)
 ssh becom@becom.sakura.ne.jp
-cd ~/www/ && git fetch && git pull
+cd ~/www/becom-server/ && git fetch && git pull
 ```
