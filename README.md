@@ -10,6 +10,10 @@ becom が管理している公開サーバー内容について
 
 ```console
 (レンタルサーバーへアクセスして main ブランチを最新に)
-ssh becom@becom.sakura.ne.jp
+ssh becom2022@becom2022.sakura.ne.jp
 cd ~/www/becom-server/ && git fetch && git pull
 ```
+
+## HTTP
+
+- <https://becom.co.jp/>
